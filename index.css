@@ -1,0 +1,14 @@
+#header {
+    height:140px;
+    background-size: cover;
+}
+
+#main9 .card img{
+  max-height: 50vh;
+  max-width: 50vh;
+  object-fit: cover;
+}
+
+#footer{
+  background-image:  url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+}
