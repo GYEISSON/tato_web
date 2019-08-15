@@ -2,14 +2,24 @@
 
 
 body{
-	background: #ffffff;
+	background-image:url(../../resources/img/gratisography-217H.png);
 	background-size: cover;
-	color:#000000;	
+	background-repeat: no-repeat;
+	background-attachment: scroll; 
+	color:white;	
+}
+header{
+	background-color: black;
+
 }
 
 li {
 	display : inline;
 	color : white;
 }
-
-
+header {
+	opacity: 0.7;
+}
+.right{
+    float: right;
+}
